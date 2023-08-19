@@ -52,8 +52,9 @@ Example files can be found in the examples directory.
 Please make sure this project is completed at least one working day before your interview.
 
 ## Execution Method
-php parser.php tsv examples/products_tab_separated.tsv
-php parser.php csv examples/products_comma_separated.csv
+- php parser.php tsv examples/products_tab_separated.tsv
+
+- php parser.php csv examples/products_comma_separated.csv
 
 Where
 argument1: csv/tsv
